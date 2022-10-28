@@ -76,4 +76,7 @@ public class FunnyAlgorithms {
 		return n;
 	}
 
+	public FunnyAlgorithms(){
+
+	}
 }
